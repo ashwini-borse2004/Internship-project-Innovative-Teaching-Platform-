@@ -1,5 +1,6 @@
 import bubbleSort from '../../../../visualizer/algorithm/sortingalgorithms/bubbleSort';
 import { assertSortSuccess } from '../../../../_testutil/TestUtil';
+
 import {
   ANIMATION_ARRAY_ALREADY_SORTED,
   ARRAY_DUPLICATES,
