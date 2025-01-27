@@ -4,7 +4,7 @@
 Welcome to Sort-Algo, a sorting visualiser app which helps you to learn and understand sorting algorithms through
 interacting animations as well as explanations. <br />
 <br />
-We built this app as we feel there is a lack of visual representation when students learn sorting algorithms.
+I am building this app as part of my In-house Internship at Pune Institute of Computer Technology Pune, as we feel there is a lack of visual representation when students learn sorting algorithms 
 Hence, we would like to provide future students who are learning these sorting algorithms a platform to visualize such
 algorithms with step by step explanations. We hope that you enjoy learning and playing around with this visualization
 tool. 
